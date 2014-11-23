@@ -40,12 +40,12 @@ The details of all features present in the tidy data are as given below. The val
 
 * subject: Subject of the experiment Values 1 to 30
 * activity : Activity performed by the subject: Values 
-	1 WALKING
-	2 WALKING_UPSTAIRS
-	3 WALKING_DOWNSTAIRS
-	4 SITTING
-	5 STANDING
-	6 LAYING
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
 * mean_tBodyAcc-mean()-Y 
 * mean_tBodyAcc-mean()-X  
 * mean_tBodyAcc-mean()-Z
